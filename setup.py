@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="DrScriptastic", # Replace with your own username
+    name="LinkCrypt", # Replace with your own username
     version="0.0.1",
     author="DrScriptastic",
     author_email="codeusstudio@gmail.com",
